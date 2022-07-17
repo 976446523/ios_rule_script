@@ -1,14 +1,14 @@
 # NAME: ProxyLite
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-10 02:28:54
+# UPDATED: 2022-07-18 02:28:10
 # HOST: 4
 # HOST-KEYWORD: 22
-# HOST-SUFFIX: 24548
+# HOST-SUFFIX: 24547
 # IP-CIDR: 92
 # IP6-CIDR: 3
 # USER-AGENT: 7
-# TOTAL: 24676
+# TOTAL: 24675
 HOST,api.waqi.info,ProxyLite
 HOST,aqi.aqicn.org,ProxyLite
 HOST,assets-priconne-redive-us.akamaized.net,ProxyLite
@@ -12147,7 +12147,6 @@ HOST-SUFFIX,megworld.co.uk,ProxyLite
 HOST-SUFFIX,mehide.org,ProxyLite
 HOST-SUFFIX,meibath.com,ProxyLite
 HOST-SUFFIX,meilizhongguo.biz,ProxyLite
-HOST-SUFFIX,meirixiaochao.com,ProxyLite
 HOST-SUFFIX,meizhong.blog,ProxyLite
 HOST-SUFFIX,meizhong.report,ProxyLite
 HOST-SUFFIX,meltdownintibet.com,ProxyLite

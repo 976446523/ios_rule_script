@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-07-10 02:27:27
+# UPDATED: 2022-07-18 02:27:00
 # DOMAIN: 36
 # DOMAIN-KEYWORD: 38
-# DOMAIN-SUFFIX: 24839
+# DOMAIN-SUFFIX: 24838
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 25028
+# TOTAL: 25027
 DOMAIN,abematv.akamaized.net
 DOMAIN,addons.mozilla.org
 DOMAIN,amp-api.podcasts.apple.com
@@ -12436,7 +12436,6 @@ DOMAIN-SUFFIX,megworld.co.uk
 DOMAIN-SUFFIX,mehide.org
 DOMAIN-SUFFIX,meibath.com
 DOMAIN-SUFFIX,meilizhongguo.biz
-DOMAIN-SUFFIX,meirixiaochao.com
 DOMAIN-SUFFIX,meizhong.blog
 DOMAIN-SUFFIX,meizhong.report
 DOMAIN-SUFFIX,meltdownintibet.com
